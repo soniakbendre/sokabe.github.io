@@ -13,8 +13,8 @@ title                    : "Sonia Bendre / sokabe"
 title_separator          : "-"
 name                     : &name "Sonia Bendre"
 description              : &description "personal description"
-url                      : https://sokabe.github.io # the base hostname & protocol for your site e.g. "https://sokabe.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://sokabe.github.io" # the base hostname & protocol for your site e.g. "https://sokabe.github.io"
+baseurl                  : "https://sokabe.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "soniakbendre/sokabe.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,9 +23,9 @@ repository               : "soniakbendre/sokabe.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "sokabe"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "reader, writer, fan of data"
   location         : "Madison, Wisconsin"
   employer         : "University of Wisconsin-Madison"
   uri              : # URL
